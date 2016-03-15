@@ -1,0 +1,28 @@
+name: ChrisHanse
+favicon: null
+layout_spectrum: 0.18179171392694116
+typography_spectrum: 0.5185347183141857
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.040789148304611444
+  lightness: 0.5276422945316881
+  saturation: 0.2462447346188128
+  rhythmicContrast: 0.6915269680321217
+purpose: []
