@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ChrisHanse]]></title>
         <description><![CDATA[ChrisHanse]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chrishanse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 14:13:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 14:42:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chrishanse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I'm going to keep this post brief so that I can check out all the cool features the grid has to offer. My posts will be about being a stay at home dad that works through the trials and tribulations of balancing my work life and my home life. Of course we will cover other favorite topics of mine such as movies/shows, sports/outdoor adventures, philosophy, technology, really there are a lot of fun things to discuss. If you are looking for heated debates on politics you've come to the wrong place. </p>]]></description>
-            <link>undefinedim-going-to-keep-this-post-brief-so-that-i-can-check-out-al/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e63186f-39da-4f03-baee-f8dc8730fcea.jpg">]]></description>
+            <link>https://thegrid.ai/chrishanse/im-going-to-keep-this-post-brief-so-that-i-can-check-out-al/index.html</link>
             <guid isPermaLink="false">91cce364-9b12-42f7-8216-9a417ff34e32</guid>
-            <pubDate>Sun, 01 May 2016 14:13:46 GMT</pubDate>
+            <pubDate>Sun, 01 May 2016 14:42:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
